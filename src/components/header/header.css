@@ -1,0 +1,42 @@
+.header {
+  display: flex;
+  border: 1px solid grey;
+  padding: 5px;
+  border-radius: 5px;
+  justify-content: space-around;
+}
+.logo img {
+  position: relative;
+  top:6px;
+  width: 15%;
+  cursor: pointer;
+  padding-top:10px;
+}
+.camera-icon {
+  display: flex;
+  margin-left: auto;
+  margin-right: 10px;
+  align-items: center;
+  
+  
+}
+.camera-icon i {
+  align-self: center;
+  font-size: 30px;
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}
+.instaclone{
+  text-align: left;
+font: normal normal normal 34px/65px Palatino;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+letter-spacing: 0px;
+color: #006238;
+opacity: 1;
+margin:0px;
+}
+
+a{
+  text-decoration: none;
+}
